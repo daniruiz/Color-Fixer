@@ -12,7 +12,7 @@ Color Fixer is a Bash script that allows you to correct all your project colors 
 
 #### Usage
 
-`
+```
 colorfixer [OPTION]... [FILE]
 
     Options:
@@ -21,7 +21,7 @@ colorfixer [OPTION]... [FILE]
       -v, --verbose           	 print color modifications
       -c, --color             	 colorize the output
       -h, --help              	 show this help text
-`
+```
 
 
 
