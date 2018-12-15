@@ -2,14 +2,12 @@
 <hr>
 <br>
 
+# Color Fixer
+
 Color Fixer is a Bash script that allows you to correct all your project colors by replacing them with the closest found in the new palette file. It supports HEX, RGB and RGBA colors.
 
 
-<br/>
-
-
-# Color Fixer
-<img src="https://raw.githubusercontent.com/daniruiz/Color-Fixer/master/1.png" width=900>
+<p align=center><img src="https://raw.githubusercontent.com/daniruiz/Color-Fixer/master/1.png"></p>
 
 
 #### Usage
