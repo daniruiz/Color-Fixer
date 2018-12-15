@@ -2,7 +2,7 @@
 <hr>
 <br>
 
-# Color Fixer
+# [Color Fixer](https://drasite.com/color-fixer)
 
 Color Fixer is a Bash script that allows you to correct all your project colors by replacing them with the closest found in the new palette file. It supports HEX, RGB and RGBA colors.
 
