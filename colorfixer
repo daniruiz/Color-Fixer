@@ -135,7 +135,7 @@ do
 			new_color_formated="rgb(${new_color[0]}, ${new_color[1]}, ${new_color[2]})"
 		fi
 
-		sed "s/$file_color/$new_color_formated/g" -i "$file"
+		sed -i "s/$file_color\([^a-z0-9]\)/$new_color_formated\\1/gi" "$file"
 
 		if (( $VERBOSE ))
 		then
